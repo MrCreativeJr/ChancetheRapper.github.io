@@ -1,0 +1,36 @@
+.chance{
+	background-image: url("chance the rapper.jpg");
+	background-repeat: no-repeat;
+	color: #ccc
+}
+.day{
+	background-image: url("10.jpg");
+	background-repeat: no-repeat;
+	color: #ccc
+}
+.acidrap{
+	background-image: url("acidrap.jpg");
+	background-repeat: no-repeat;
+	color: #ccc
+}
+.coloringbook{
+	background-image: url("coloringbook.jpg");
+	background-repeat: no-repeat;
+	color: #ccc
+}
+a:link {
+    color: #ccc;
+    text-align: center;
+}
+
+a:visited {
+    color: #ccc;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+	text-align: center;
+}
